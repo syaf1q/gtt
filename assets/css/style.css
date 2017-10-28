@@ -1,0 +1,69 @@
+.form-container {
+    padding: 15px;
+}
+address {
+    margin-top: 20px;
+}
+
+.summary-btns {
+    margin-bottom: 20px;
+}
+
+/* custom inclusion of right, left and below tabs */
+
+.tabs-below > .nav-tabs,
+.tabs-right > .nav-tabs,
+.tabs-left > .nav-tabs {
+    border-bottom: 0;
+}
+
+.tab-content > .tab-pane,
+.pill-content > .pill-pane {
+    display: none;
+}
+
+.tab-content > .active,
+.pill-content > .active {
+    display: block;
+}
+
+.tabs-below > .nav-tabs {
+    border-top: 1px solid #ddd;
+}
+
+.tab-box {
+    padding-top: 15px;
+}
+
+.footer {
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
+.btn-box {
+    margin-bottom: 35px;
+}
+
+
+
+.footer-box {
+    background: #e7e7e7;
+    font-size: 0.9em;
+    padding-bottom: 15px;
+}
+
+.small-logo {
+    width:60px;
+}
+
+.house-images {
+    background: url(http://www.sharecg.com/images/medium/71214.jpg) no-repeat top left;
+    margin: 15px 0;
+}
+
+.house-images td {
+    width: 300px;
+    height: 250px;
+    border: 1px solid #ccc;
+}
