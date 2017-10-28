@@ -3,7 +3,7 @@
 	define("HOSTNAME","localhost:3307");
 	define("USERNAME","root");
 	define("PASSWORD","root");
-	define("DB_NAME","myservice2");
+	define("DB_NAME","gtt");
 	
 	function connect()
 	{
